@@ -3,3 +3,5 @@ Jest to strona stworzona na podstawie PSD templatki ściągniętej z internetu, 
 postaci webowej, pamiętając przy tym o responsywności. Do tego projektu użyłem technologii takich jak:HTML, CSS3, Boostrap, JavaScript, Jquery, biblioteke Scrollmagic.js 
 
 Nie są to w pełni zoptymalizowane pliki gotowe do wysłania na serwer, ponieważ komentarze pozostawiłem w celu pokazania sposobu postępowania z kodem i organizacji pracy.
+
+Jednak, aby pokazać, że potrafię posługiwać się gulpem oraz npmem w folderze dist można znaleźć zoptymalizowaną wersję tego projektu.
