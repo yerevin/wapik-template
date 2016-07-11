@@ -4,4 +4,4 @@ postaci webowej, pamiętając przy tym o responsywności. Do tego projektu uży�
 
 Nie są to w pełni zoptymalizowane pliki gotowe do wysłania na serwer, ponieważ komentarze pozostawiłem w celu pokazania sposobu postępowania z kodem i organizacji pracy.
 
-W folderze dist można znaleźć zoptymalizowaną wersję tego projektu za pomocą (gulpa).
+W folderze dist można znaleźć zoptymalizowaną wersję tego projektu za pomocą gulpa.
