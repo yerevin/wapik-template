@@ -65,7 +65,7 @@ p {
   font-size: 2.0em;  
 }
 .before-footer-bg {
-  background-image: url("img/before-footer-bg.png");
+  background-image: url("before-footer-bg.png");
   background-size:  cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -160,7 +160,7 @@ p {
 
 /* facts-open */
 .map-bg {
-  background-image: url("img/map-bg.png");
+  background-image: url("map-bg.png");
   background-size:  contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -237,7 +237,7 @@ p {
   background-color: #eef1ec;
 }
 .phone-img-bg {
-  background-image: url("img/phone-bg.png");
+  background-image: url("phone-bg.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -323,7 +323,7 @@ p {
   justify-content: center;
 }
 .main-bg {
-  background-image: url("img/main-bg.png");
+  background-image: url("main-bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -590,7 +590,7 @@ p {
 
 /* facts-open */
 .map-bg {
-  background-image: url("img/map-bg.png");
+  background-image: url("map-bg.png");
   background-size:  contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -711,7 +711,7 @@ p {
 
 /* facts-open */
 .map-bg {
-  background-image: url("img/map-bg.png");
+  background-image: url("map-bg.png");
   background-size:  contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -806,7 +806,7 @@ p {
 
 /* facts-open */
 .map-bg {
-  background-image: url("img/map-bg.png");
+  background-image: url("map-bg.png");
   background-size:  contain;
   background-repeat: no-repeat;
   background-position: center center;
