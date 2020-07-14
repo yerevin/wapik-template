@@ -1,4 +1,4 @@
-# wapik-template
+# wapik-template [2016]
 
 https://yerevin.github.io/wapik-template/
 
